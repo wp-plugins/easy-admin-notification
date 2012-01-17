@@ -8,7 +8,7 @@ Requires at least 3.0
 Tested up to 3.3.1
 Stable tag: 1.1
 
-Adds the ability to create easily notification in the admin panl
+Adds the ability to create easily notification in the admin panel
 
 == Description ==
 
@@ -22,10 +22,6 @@ You can choose many options and decide how and where to display the notification
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Look at your admin bar under 'Appearance' menu
 4. Start displaying notification and smile...
-
-== Frequently Asked Questions ==
-
-None for the moment...
 
 == Screenshots ==
 
@@ -41,8 +37,3 @@ None for the moment...
 = 1.1 =
 
 * Correction in link in plugins page.
-
-== Translations ==
-
-* English
-* French / Français
