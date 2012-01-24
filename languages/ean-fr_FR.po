@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Easy Admin Notification\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-01-12 18:59+0100\n"
-"PO-Revision-Date: 2012-01-12 18:59+0100\n"
+"POT-Creation-Date: 2012-01-24 09:34+0100\n"
+"PO-Revision-Date: 2012-01-24 09:36+0100\n"
 "Last-Translator: remi\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -13,89 +13,126 @@ msgstr ""
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#: ../easy-admin-notification.php:43
-#: ../easy-admin-notification.php:87
+#: ../easy-admin-notification.php:57
+#: ../easy-admin-notification.php:130
 msgid "Easy Admin Notification Settings"
 msgstr "Paramètres de notification"
 
-#: ../easy-admin-notification.php:44
+#: ../easy-admin-notification.php:58
 msgid "Admin Notification"
 msgstr "Notification"
 
-#: ../easy-admin-notification.php:93
+#: ../easy-admin-notification.php:94
+msgid "Notification management"
+msgstr "Gérer les notifications"
+
+#: ../easy-admin-notification.php:136
 msgid "Options saved"
 msgstr "Paramètres enregistrés"
 
-#: ../easy-admin-notification.php:103
-msgid "Enable notification ?"
-msgstr "Activer l'affichage de la notification ?"
-
-#: ../easy-admin-notification.php:107
-msgid "Check this box to enable the notification message."
-msgstr "Cochez cette case pour activer l'affichage de la notification."
-
-#: ../easy-admin-notification.php:112
-msgid "Enter the message to display"
-msgstr "Entrer le message à afficher"
-
-#: ../easy-admin-notification.php:116
-msgid "Enter the text you want to display in the notification. HTML code accepted."
-msgstr "Entrer le texte que souhaitez afficher dans la notification. Code HTML accepté."
-
-#: ../easy-admin-notification.php:116
-msgid "To create links use simple quotes."
-msgstr "Pour créer des liens utilisez des simples quotes (pas de guillemets)."
-
-#: ../easy-admin-notification.php:121
-msgid "Error message ?"
-msgstr "Message d'erreur ?"
-
-#: ../easy-admin-notification.php:125
-msgid "Check this box to display an error message. If uncheck, the message will be display as an information."
-msgstr "Cochez cette case pour afficher un message d'erreur. Si cette case est décochée, le message affiché sera une information."
-
-#: ../easy-admin-notification.php:130
-msgid "Display \"hide button\" ?"
-msgstr "Afficher le bouton \"masquer\" ?"
-
-#: ../easy-admin-notification.php:134
-msgid "Check this box to display a \"hide button\" inside the notification box.<br />Each user will have the choice to hide or not the notification"
-msgstr "Cochez cette case si vous souhaitez afficher le bouton \"masquer\" dans la notification.<br />Chaque utilisateur aura le choix de masquer la notification de manière individuelle."
-
-#: ../easy-admin-notification.php:139
-msgid "Notification page(s)"
-msgstr "Pages d'affichage"
-
-#: ../easy-admin-notification.php:143
-msgid "All pages"
-msgstr "Toutes les pages"
-
-#: ../easy-admin-notification.php:144
-msgid "Dashboard Only"
-msgstr "Tableau de bord uniquement"
-
-#: ../easy-admin-notification.php:146
-msgid "Choose where you want to display the notification."
-msgstr "Choisissez où vous souhaitez afficher la notification."
-
-#: ../easy-admin-notification.php:151
-msgid "Only display to Admins ?"
-msgstr "N'afficher qu'aux administrateurs ?"
-
-#: ../easy-admin-notification.php:155
-msgid "Check this box to display notice only to Admins"
-msgstr "Cochez cette case pour n'afficher qu'aux administrateurs"
-
-#: ../easy-admin-notification.php:162
+#: ../easy-admin-notification.php:149
 msgid "Save Options"
 msgstr "Enregistrer les paramètres"
 
-#: ../easy-admin-notification.php:205
+#: ../easy-admin-notification.php:195
 #, php-format
 msgid "<a href=\"%1$s\">Hide</a>"
 msgstr "<a href=\"%1$s\">Masquer</a>"
 
-#: ../easy-admin-notification.php:277
+#: ../easy-admin-notification.php:278
 msgid "Ooop! You activated a notification but you haven't defined any message!"
 msgstr "Oups ! Vous avez activé une notification mais vous n'avez indiqué aucun message !"
+
+#: ../includes/options.php:15
+msgid "General"
+msgstr "Paramètres généraux"
+
+#: ../includes/options.php:19
+msgid "Advanced"
+msgstr "Paramètres avancés"
+
+#: ../includes/options.php:37
+msgid "Please configure the settings"
+msgstr "Merci de configurer les paramètres ci-dessous"
+
+#: ../includes/options.php:43
+msgid "Enable notification ?"
+msgstr "Activer l'affichage de la notification ?"
+
+#: ../includes/options.php:44
+msgid "Check this box to enable the notification message."
+msgstr "Cochez cette case pour activer l'affichage de la notification."
+
+#: ../includes/options.php:50
+msgid "Enter the message to display"
+msgstr "Entrer le message à afficher"
+
+#: ../includes/options.php:51
+msgid "Enter the text you want to display in the notification. HTML code accepted."
+msgstr "Entrer le texte que souhaitez afficher dans la notification. Code HTML accepté."
+
+#: ../includes/options.php:51
+msgid "To create links use simple quotes."
+msgstr "Pour créer des liens utilisez des simples quotes (pas de guillemets)."
+
+#: ../includes/options.php:57
+msgid "Error message ?"
+msgstr "Message d'erreur ?"
+
+#: ../includes/options.php:58
+msgid "Check this box to display an error message. If uncheck, the message will be display as an information."
+msgstr "Cochez cette case pour afficher un message d'erreur. Si cette case est décochée, le message affiché sera une information."
+
+#: ../includes/options.php:64
+msgid "Display \"hide button\" ?"
+msgstr "Afficher le bouton \"masquer\" ?"
+
+#: ../includes/options.php:65
+msgid "Check this box to display a \"hide button\" inside the notification box.<br />Each user will have the choice to hide or not the notification"
+msgstr "Cochez cette case si vous souhaitez afficher le bouton \"masquer\" dans la notification.<br />Chaque utilisateur aura le choix de masquer la notification de manière individuelle."
+
+#: ../includes/options.php:71
+msgid "Notification page(s)"
+msgstr "Pages d'affichage"
+
+#: ../includes/options.php:72
+msgid "Choose where you want to display the notification."
+msgstr "Choisissez où vous souhaitez afficher la notification."
+
+#: ../includes/options.php:77
+msgid "All pages"
+msgstr "Toutes les pages"
+
+#: ../includes/options.php:81
+msgid "Dashboard Only"
+msgstr "Tableau de bord uniquement"
+
+#: ../includes/options.php:99
+msgid "Only display to Admins ?"
+msgstr "N'afficher qu'aux administrateurs ?"
+
+#: ../includes/options.php:100
+msgid "Check this box to display notice only to Admins"
+msgstr "Cochez cette case pour n'afficher qu'aux administrateurs"
+
+#: ../includes/functions/ean_functions.php:143
+#: ../includes/functions/ean_functions.php:162
+msgid "Select"
+msgstr "Choisir"
+
+#: ../includes/functions/ean_functions.php:153
+msgid "Manage"
+msgstr "Gérer"
+
+#: ../includes/functions/ean_functions.php:181
+msgid "Choose Image"
+msgstr "Choisir une image"
+
+#: ../includes/functions/ean_functions.php:182
+msgid "Remove Image"
+msgstr "Supprimer l'image"
+
+#: ../includes/functions/ean_functions.php:212
+msgid "Add"
+msgstr "Ajouter"
 
