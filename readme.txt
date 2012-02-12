@@ -49,4 +49,4 @@ You can choose many options and decide how and where to display the notification
 
 = 1.4 =
 
-* Renaming dur to SVN pb
+* Renaming due to SVN pb
