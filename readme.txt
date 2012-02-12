@@ -1,6 +1,5 @@
 === Easy Admin Notification ===
 Version: 1.3
-Stable tag: 1.3
 Author URI: http://wpboxed.com
 Author: Rémi Corson
 Contributors: Rémi Corson
