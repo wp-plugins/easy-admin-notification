@@ -3,7 +3,7 @@
 Plugin Name: Easy Admin Notification
 Plugin URL: http://wpboxed.com
 Description: Permits to admins to easily display notifications to users in the admin panel. Manage your notifications under appearance > Admin Notification.
-Version: 1.3
+Version: 1.2
 Author: Rémi Corson
 Author URI: http://wpboxed.com
 Contributors: Rémi Corson
