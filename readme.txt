@@ -32,13 +32,13 @@ You can choose many options and decide how and where to display the notification
 
 = 1.0 =
 
-* Initial release.
+* Initial release
 
 = 1.1 =
 
-* Correction in link in plugins page.
+* Correction in link in plugins page
 
 = 1.2 =
 
-* Strong admin changes in code.
-* Tabs added.
+* Strong admin changes in code
+* Tabs added
