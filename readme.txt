@@ -1,12 +1,12 @@
 === Easy Admin Notification ===
+Version: 1.4
 Author URI: http://wpboxed.com
 Author: Rémi Corson
 Contributors: Rémi Corson
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UAQZDW8V6HJUL
 Tags: notification, notice, warning, error, information, dashboard, panel, notice management, admin, users, user
-Requires at least 3.0
 Tested up to 3.3.1
-Stable tag: 1.2
+Stable Tag: 1.4
 
 Adds the ability to create easily notification in the admin panel
 
@@ -42,3 +42,11 @@ You can choose many options and decide how and where to display the notification
 
 * Strong admin changes in code
 * Tabs added
+
+= 1.3 =
+
+* Core functions improvements
+
+= 1.4 =
+
+*Renaming dur to SVN pb
