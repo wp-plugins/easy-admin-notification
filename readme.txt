@@ -5,7 +5,6 @@ Author: Rémi Corson
 Contributors: Rémi Corson
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UAQZDW8V6HJUL
 Tags: notification, notice, warning, error, information, dashboard, panel, notice management, admin, users, user
-Requires at least 3.0
 Tested up to 3.3.1
 Stable Tag: 1.3
 
