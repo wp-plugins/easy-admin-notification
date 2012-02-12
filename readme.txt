@@ -7,6 +7,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: notification, notice, warning, error, information, dashboard, panel, notice management, admin, users, user
 Requires at least 3.0
 Tested up to 3.3.1
+Stable Tag: 1.3
 
 Adds the ability to create easily notification in the admin panel
 
